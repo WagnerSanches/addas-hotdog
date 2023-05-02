@@ -1,0 +1,27 @@
+main {
+    margin: 0px auto;
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+main img {
+    width: 120px;
+}
+
+main p {
+    margin: 0px auto;
+    font-size: 14px;
+    width: 400px;
+}
+
+@media only screen and (max-width: 450px) { 
+    main p {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 300px) { 
+    main p {
+        width: 200px;
+    }
+}

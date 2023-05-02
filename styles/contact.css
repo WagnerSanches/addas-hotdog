@@ -1,0 +1,25 @@
+main div {
+    margin: 0px auto;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    width: 400px;
+    padding: 20px 50px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+main h3 {
+    font-weight: 700;
+}
+
+main p {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+
+@media only screen and (max-width: 400px) {
+    main div {
+        width: 85%;
+    }
+} 
