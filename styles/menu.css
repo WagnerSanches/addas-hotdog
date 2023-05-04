@@ -20,6 +20,10 @@ main h1 {
     text-align: center;
 }
 
+#refri {
+    object-fit: scale-down;
+}
+
 @media only screen and (max-width: 420px) { 
     main h1 {
         width: auto;
