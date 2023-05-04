@@ -20,7 +20,7 @@ main h1 {
     text-align: center;
 }
 
-#refri {
+.refri {
     object-fit: scale-down;
 }
 
