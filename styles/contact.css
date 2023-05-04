@@ -23,15 +23,15 @@
     padding-left: 10px;
 }
 
-.contact-card div:nth-child(1) {
-}
-.contact-card div:nth-child(1) img {
-    width: 60px;
+.contact-card img {
+    width: 30px;
     opacity: .8;
 }
 
-@media only screen and (max-width: 400px) {
-    main div {
-        width: 85%;
+@media only screen and (max-width: 420px) {
+    .contact-card {
+        width: auto;
+        margin-left: 10px;
+        margin-right: 10px;
     }
 } 

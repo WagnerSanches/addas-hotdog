@@ -178,7 +178,7 @@ footer {
     .card {
         margin-top: 0px;
         margin-bottom: 0px;
-        width: 80%;
+        width: 300px;
     }
 
     footer {
@@ -192,5 +192,6 @@ footer {
         margin-top: 0px;
         margin-bottom: 0px;
         width: 95%;
+        min-width: 100%;
     }
 }
