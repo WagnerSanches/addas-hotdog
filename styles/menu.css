@@ -21,7 +21,7 @@ main h1 {
 }
 
 .refri {
-    object-fit: scale-down;
+    object-fit: scale-down !important;
 }
 
 @media only screen and (max-width: 420px) { 
